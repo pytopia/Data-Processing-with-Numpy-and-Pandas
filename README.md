@@ -10,22 +10,19 @@ Throughout the course, you will work on real-world datasets and practical exampl
 
 Course Objectives:
 
-Understand the fundamental data structures of NumPy and Pandas
-Learn how to read, clean, and manipulate data using NumPy and Pandas
-Use NumPy and Pandas to perform filtering, sorting, merging, grouping, and aggregating data
-Handle missing data and perform basic statistical analysis
-Visualize data using Matplotlib
-Apply NumPy and Pandas to real-world datasets and practical examples
+- Understand the fundamental data structures of NumPy and Pandas
+- Learn how to read, clean, and manipulate data using NumPy and Pandas
+- Use NumPy and Pandas to perform filtering, sorting, merging, grouping, and aggregating data
+- Handle missing data and perform basic statistical analysis
+- Apply NumPy and Pandas to real-world datasets and practical examples
 
 Prerequisites:
-
-Familiarity with Python programming language
-Basic knowledge of statistics and probability
+- Familiarity with Python programming language
+- Basic knowledge of statistics and probability
 
 Target Audience:
-
-Data analysts
-Data scientists
-Data engineers
-Business analysts
-Anyone interested in data processing and analysis with Python.
+- Data analysts
+- Data scientists
+- Data engineers
+- Business analysts
+- Anyone interested in data processing and analysis with Python.
